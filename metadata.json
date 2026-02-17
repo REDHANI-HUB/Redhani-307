@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CrowdVision Pro: Predictive Crowd Management",
+  "description": "A high-performance dashboard for authorities to monitor, visualize, and predict crowd density using AI and real-time spatial analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
